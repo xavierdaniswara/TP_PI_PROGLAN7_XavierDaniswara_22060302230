@@ -1,8 +1,8 @@
 # Tugas Pendahuluan 7
 
-Nama:
+Nama: Xavier Daniswara
 
-NPM:
+NPM: 2206030230
 
 > **Note:** Pastikan sudah mempelajari tentang struktur data Stack dan Queue, serta operasinya terlebih dahulu sebelum mengerjakan nomor 1 dan nomor 2. Pastikan juga sudah mempelajari bagaimana cari insert Node pada Binary Search Tree dan apa saja jenis traversal-nya sebelum mengerjakan nomor 3 dan nomor 4.
 
