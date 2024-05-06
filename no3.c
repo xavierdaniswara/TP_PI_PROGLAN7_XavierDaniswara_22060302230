@@ -1,5 +1,5 @@
 // Tugas Pendahuluan 7 - Stack, Queue, Tree
-// Bagian 2:
+// Bagian 3:
 // Buatlah program dalam C yang dapat melakukan traversal
 // DFS (Depth-First Search) secara inorder dalam sebuah 
 // Binary Search Tree
